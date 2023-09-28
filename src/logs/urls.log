@@ -1,0 +1,254 @@
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-prod.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-prod.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-prod.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-prod.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-dev.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-dev.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-dev.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-dev.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-stg.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-stg.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-stg.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-stg.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-web.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 2, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 3, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 4, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 5, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 6, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 7, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 8, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 9, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 10, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-prod.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-prod.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-prod.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-prod.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-dev.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-dev.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-dev.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-dev.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-stg.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-stg.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-stg.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-stg.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-web.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 2, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 3, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 4, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 5, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+Intento: 6, consultado a la url: 
+https://yonesto-web.onrender.com/health 
+response==> failed, status_code==> 404
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-prod.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-prod.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-prod.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-prod.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-dev.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-dev.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-dev.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-dev.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-api-stg.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-api-stg.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://uniaccounts-api-stg.onrender.com/health
+****************************************************************************************************
+Intento: 1, consultado a la url: https://uniaccounts-api-stg.onrender.com/health 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: 
+https://yonesto-web.onrender.com/
+****************************************************************************************************
+Intento: 1, consultado a la url: 
+https://yonesto-web.onrender.com/ 
+response==> success
+
+
+
+****************************************************************************************************
+CONSULTADO SALUD DE: https://unicron-test-example-one.onrender.com/
+****************************************************************************************************
+Intento: 1, consultado a la url: https://unicron-test-example-one.onrender.com/ 
+response==> failed, status_code==> 404
+Intento: 2, consultado a la url: https://unicron-test-example-one.onrender.com/ 
+response==> failed, status_code==> 404
+Intento: 3, consultado a la url: https://unicron-test-example-one.onrender.com/ 
+response==> failed, status_code==> 404
+Intento: 4, consultado a la url: https://unicron-test-example-one.onrender.com/ 
+response==> failed, status_code==> 404
+Intento: 5, consultado a la url: https://unicron-test-example-one.onrender.com/ 
+response==> failed, status_code==> 404
+Intento: 6, consultado a la url: https://unicron-test-example-one.onrender.com/ 
+response==> failed, status_code==> 404
+Intento: 7, consultado a la url: https://unicron-test-example-one.onrender.com/ 
+response==> failed, status_code==> 404

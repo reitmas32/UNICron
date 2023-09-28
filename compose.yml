@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  cron-apis-service:
+    build:
+      context: .
+    restart: always
+    volumes:
+      - ./src/logs:/app/logs
