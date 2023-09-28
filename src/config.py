@@ -6,8 +6,7 @@ os.environ["API_URLS"] = """
 https://yonesto-api-prod.onrender.com/health,https://uniaccounts-api-prod.onrender.com/health,
 https://yonesto-api-dev.onrender.com/health,https://uniaccounts-api-dev.onrender.com/health,
 https://yonesto-api-stg.onrender.com/health,https://uniaccounts-api-stg.onrender.com/health,
-https://yonesto-web.onrender.com/,https://unicron-test-example-one.onrender.com/,
-
+https://yonesto-web.onrender.com/,https://unicron-test-example-one.onrender.com/
 """
 os.environ["SUPPORT_TEAM"] = "David Roni Hernández Beltrán:roni.hernandez.1999@gmail.com,Oswaldo Rafael Zamora Ramírez:rafa.zamora.rals@gmail.com"
 os.environ["GMAIL_USER"]="unicapp.mail@gmail.com"
