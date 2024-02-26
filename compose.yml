@@ -7,3 +7,4 @@ services:
     restart: always
     volumes:
       - ./src/logs:/app/logs
+      - ./src/data:/app/data

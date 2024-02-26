@@ -1,5 +1,5 @@
 # Etapa de construcción
-FROM python:3.9-alpine as builder
+FROM python:3.12-alpine as builder
 
 # Instalar paquetes necesarios para compilar las dependencias
 RUN apk add --no-cache postgresql-dev build-base
@@ -15,7 +15,7 @@ COPY ./requirements.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Etapa final
-FROM python:3.9-alpine
+FROM python:3.12-alpine
 
 # Instalar paquetes necesarios para ejecutar la aplicación
 RUN apk add --no-cache libpq
@@ -28,7 +28,6 @@ WORKDIR /app
 
 # Copiar los archivos de la aplicación a la imagen final
 COPY ./src /app
-
 
 # Definir el puerto en el que se ejecutará la aplicación Flask
 EXPOSE 5000

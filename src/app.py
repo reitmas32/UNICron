@@ -3,7 +3,11 @@ import os
 import cron
 import time
 import multiprocessing
+
+from urls import create_db
 app = Flask(__name__)
+
+create_db()
 
 @app.route('/')
 def hello_world():
